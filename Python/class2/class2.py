@@ -7,8 +7,14 @@ print(age)
 
 # names = input("hey name? ")
 
-# data types 
+# data types
+# number 
 data_n = 45345346
-data_s = "muhammad 12341 hahdaf"
-print(type(data_n))
+# string
+data_s = 'cat is there 3.5 meters away from a point 1'
+# character data type 
+data_c = "D"
+print(type(data_s))
+# float
+data_f = 34.5
 
