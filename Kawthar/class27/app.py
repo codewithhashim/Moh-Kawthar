@@ -45,7 +45,10 @@ while  month1 <= month2:
     month1=month1+1
 
 
-
+items = []
+for single_item in items:
+    # code here
+    print(single_item)
 
 
 
